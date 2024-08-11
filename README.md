@@ -3,7 +3,7 @@
 
 Welcome to the SearchHive : Search Engine repository! This project provides a web application that allows users to search for coding questions from LeetCode (LC) and Codeforces (CF).
 
-[Click Here to visit SearchHive](https://tf-idf-search-engine-fe5s.onrender.com/)
+[Click Here to visit SearchHive](https://tf-idf-search-engine-xk2l.onrender.com)
 ## Prerequisite
 
 Before building the code locally, ensure that you have the following prerequisites installed on your machine:
